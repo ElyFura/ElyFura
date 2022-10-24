@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![@ElyFura Astro contributions](https://astro.badg.es/v1/contributor/ElyFura.svg)](https://astro.badg.es/v1/contributor/ElyFura/)
+
 <!--
 **ElyFura/ElyFura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
