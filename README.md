@@ -28,7 +28,7 @@ src="https://img.shields.io/twitch/status/elyfura?logo=twitchsx&style=for-the-ba
 
 <a href="https://github.com/ElyFura" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElyFura&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-[![@ElyFura Astro contributions](https://astro.badg.es/v1/contributor/ElyFura.svg)](https://astro.badg.es/v1/contributor/ElyFura/)
+[![@ElyFura Astro contributions](https://astro.badg.es/v2/contributor/ElyFura.svg)](https://astro.badg.es/contributor/ElyFura/)
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/ElyFura"
