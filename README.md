@@ -36,3 +36,5 @@ src="https://img.shields.io/twitch/status/elyfura?logo=twitchsx&style=for-the-ba
     height="120"
   />
 </a>
+
+<a href="https://app.daily.dev/dseng"><img src="https://api.daily.dev/devcards/v2/xMnI1bmb05AaXYICYUP6m.png?type=default&r=64r" width="356" alt="Dominik Seng's Dev Card"/></a>
